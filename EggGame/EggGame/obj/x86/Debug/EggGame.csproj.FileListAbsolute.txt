@@ -1,0 +1,7 @@
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\bin\x86\Debug\Content\space.xnb
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\bin\x86\Debug\EggGame.exe
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\bin\x86\Debug\EggGame.pdb
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\obj\x86\Debug\EggGame.exe
+C:\Users\Etcho\Documents\Visual Studio 2010\Projects\EggGame\EggGame\EggGame\obj\x86\Debug\EggGame.pdb
